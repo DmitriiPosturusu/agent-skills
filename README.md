@@ -11,7 +11,7 @@ All changes are made via Pull Request — never direct commits to `main`.
 
 ---
 
-Watch the full demonstration here:
+Watch the full demonstration here:\
 [![Watch the demo](https://img.youtube.com/vi/Tg9N8Uv4Igw/0.jpg)](https://www.youtube.com/watch?v=Tg9N8Uv4Igw)
 
 
